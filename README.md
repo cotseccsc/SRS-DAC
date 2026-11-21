@@ -20,8 +20,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone [仓库地址]
-cd [仓库名]
+git clone https://github.com/cotseccsc/SRS-DAC.git
+cd SRS-DAC
 
 # 2. 创建并激活虚拟环境
 python -m venv .venv
