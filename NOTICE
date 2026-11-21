@@ -1,0 +1,38 @@
+Oocyte SRS Imaging Depth Correction Tool
+Copyright 2026 Jikang Zhang, Zhengyan Wu
+
+This product includes software developed by Jikang Zhang and Zhengyan Wu (Zhejiang University).
+
+----------------------------------------------------------------------
+Patent Notice
+----------------------------------------------------------------------
+
+The methods implemented in this software are the subject of a pending
+patent application filed by Zhejiang University.
+The software is distributed under the Apache License, Version 2.0.
+
+Pursuant to Section 3 of the Apache License 2.0, each Contributor
+hereby grants to You a perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable (except as stated in this section) patent
+license to make, have made, use, offer to sell, sell, import, and
+otherwise transfer the Work, where such license applies only to those
+patent claims licensable by such Contributor that are necessarily
+infringed by their Contribution(s) alone or by combination of their
+Contribution(s) with the Work.
+
+This patent grant is conditioned upon Your compliance with the Apache
+License 2.0 and is subject to the defensive termination clause set
+forth in Section 3 of that license.
+
+----------------------------------------------------------------------
+Third-Party Components
+----------------------------------------------------------------------
+
+This software depends on the following open-source libraries, each
+distributed under its own license:
+
+  - NumPy            (BSD-3-Clause)   https://numpy.org/
+  - SciPy            (BSD-3-Clause)   https://scipy.org/
+  - scikit-image     (BSD-3-Clause)   https://scikit-image.org/
+  - tifffile         (BSD-3-Clause)   https://github.com/cgohlke/tifffile
+  - Matplotlib       (PSF-based)      https://matplotlib.org/
