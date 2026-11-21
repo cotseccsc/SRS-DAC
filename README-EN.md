@@ -21,8 +21,8 @@ A depth-attenuation correction tool for **oocyte Stimulated Raman Scattering (SR
 
 ```bash
 # 1. Clone the repository
-git clone [Repository URL]
-cd [Repository Name]
+git clone https://github.com/cotseccsc/SRS-DAC.git
+cd SRS-DAC
 
 # 2. Create and activate a virtual environment
 python -m venv .venv
